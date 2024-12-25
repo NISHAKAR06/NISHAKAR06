@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hi, I'm [Your Name]!<br><br>I'm a passionate **Machine Learning Engineer** with expertise in building scalable ML solutions, data pipelines, and deploying AI models. I enjoy solving challenging problems using data-driven insights and cutting-edge technologies.<br><br><br>## 🛠 Skills & Tools<br><br>**Programming Languages**:<br>- Python (NumPy, Pandas, Matplotlib, Seaborn)<br>- Web development<br><br>**Machine Learning Frameworks**:<br>- TensorFlow, PyTorch, Scikit-learn<br><br><br>**Other Tools**:<br>- Version Control: Git, GitHub<br>
+👋 Hi, I'm Nishakar!<br><br>I'm a passionate **Machine Learning Engineer** with expertise in building scalable ML solutions, data pipelines, and deploying AI models. I enjoy solving challenging problems using data-driven insights and cutting-edge technologies.<br><br><br>🛠 Skills & Tools<br><br>**Programming Languages**:<br>- Python (NumPy, Pandas, Matplotlib, Seaborn)<br>- Web development<br><br>**Machine Learning Frameworks**:<br>- TensorFlow, PyTorch, Scikit-learn<br><br><br>**Other Tools**:<br>- Version Control: Git, GitHub<br>
 
 
 🌐 Socials:
