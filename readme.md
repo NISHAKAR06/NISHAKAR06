@@ -1,6 +1,7 @@
 💫 About Me:
 👋 Hi, I'm Nishakar!<br><br>I'm a passionate **Machine Learning Engineer** with expertise in building scalable ML solutions, data pipelines, and deploying AI models. I enjoy solving challenging problems using data-driven insights and cutting-edge technologies.<br><br><br>🛠 Skills & Tools<br><br>**Programming Languages**:<br>- Python (NumPy, Pandas, Matplotlib, Seaborn)<br>- Web development<br><br>**Machine Learning Frameworks**:<br>- TensorFlow, PyTorch, Scikit-learn<br><br><br>**Other Tools**:<br>- Version Control: Git, GitHub<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NISHAKAR06&label=Profile%20views&color=0e75b6&style=flat" alt="ajay03072005" /> </p>
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_nishakar)
