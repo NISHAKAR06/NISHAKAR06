@@ -134,8 +134,11 @@
 <!--   <a href="https://g.dev/Nishakar06" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a> -->
-  <a href="https://mail.google.com/mail/nishakarnishakar06@gmail.com" target="_blank">
+<!--   <a href="https://mail.google.com/mail/nishakarnishakar06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a> -->
+  <a href="mailto:nishakarnishakar06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
