@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20%7C%20Full%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+  <p> Problem - solving isn't a task. It's a mindset </p>
 </div>
 
 ###
