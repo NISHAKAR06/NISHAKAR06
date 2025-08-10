@@ -12,15 +12,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHAKAR06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NISHAKAR06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=NISHAKAR06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NISHAKAR06&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
-</div>
+---
 
 ## 💻 Tech
 
@@ -95,12 +87,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" title="VS Code" />
 </div>
 
-###
+---
 
+<br clear="both">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHAKAR06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NISHAKAR06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=NISHAKAR06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+</div>
+
+---
+
+## 📈 Contribution Graph
+  <div align='center'>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NISHAKAR06&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
+  </div>
+  
+---
+
+## 🏆 Trophy Graph
+<div align='center'>
+  <img src="https://github-profile-trophy.vercel.app?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
+  </div>
+
+---
+
+###
+## 🔥 Contribution
 <img src="https://raw.githubusercontent.com/NISHAKAR06/NISHAKAR06/output/snake.svg" alt="Snake animation" />
 
 ###
 
+---
+## 📫 contact
 <br clear="both">
 
 <div align="center">
@@ -110,13 +132,15 @@
   <a href="https://www.instagram.com/itz_nishakar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://g.dev/Nishakar06" target="_blank">
+<!--   <a href="https://g.dev/Nishakar06" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
+  </a> -->
   <a href="https://mail.google.com/mail/nishakarnishakar06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
