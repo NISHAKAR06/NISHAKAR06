@@ -114,3 +114,8 @@
 <img src="https://raw.githubusercontent.com/NISHAKAR06/NISHAKAR06/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+Thanks for visiting! 🌟
+</div>
