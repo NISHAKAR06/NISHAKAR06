@@ -117,7 +117,9 @@
 
 ###
 ## 🔥 Contribution
+<div align='center'>
 <img src="https://raw.githubusercontent.com/NISHAKAR06/NISHAKAR06/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
