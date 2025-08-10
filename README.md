@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Nishakar!</h2>
+<h1 align="center">👋 Hi, I'm Nishakar!</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20%7C%20Full%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn"/>
