@@ -103,7 +103,7 @@
 
 ## 📈 Contribution Graph
   <div align='center'>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NISHAKAR06&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NISHAKAR06&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
   </div>
   
 ---
@@ -111,7 +111,7 @@
 ## 🏆 Trophy Graph
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
-  </div>
+</div>
 
 ---
 
@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a> -->
   <a href="mailto:nishakarnishakar06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
 
