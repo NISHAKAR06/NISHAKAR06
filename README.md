@@ -94,8 +94,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHAKAR06&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=10&theme=tokyonight&hide_border=false" height="200" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NISHAKAR06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NISHAKAR06&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=10&theme=tokyonight&hide_border=false" height="200" alt="languages graph" /> <br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NISHAKAR06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
   
   <!-- <img src="https://streak-stats.demolab.com?user=NISHAKAR06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" alt="streak graph" />
   -->
@@ -112,7 +112,8 @@
 
 ## 🏆 Trophy Graph
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph"  /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NISHAKAR06&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 ---
